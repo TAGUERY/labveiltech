@@ -1,5 +1,5 @@
 ---
-title: "L'utilité de Google Alerts"
+title: "L'utilité de Google Alerts pour la veille"
 date: 2024-12-05
 author: "Tristan"
 description: "Un aperçu de ma méthode pour rester à jour sur les innovations technologiques et organiser les informations essentielles pour mes projets vidéo et photo."
