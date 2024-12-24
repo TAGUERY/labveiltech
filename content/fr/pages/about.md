@@ -69,7 +69,7 @@ Pour publier mon blog de veille technologique, j’ai opté pour **Hugo**, un SS
 
 - **Performance** : Hugo est ultra-rapide pour générer des pages statiques, idéal pour un blog.
 - **Organisation** : Il permet une excellente gestion des taxonomies et des contenus, essentielle pour structurer ma veille.
-- **Personnalisation** : Les nombreux thèmes disponibles permettent d’adapter le site à l’identité visuelle de mon domaine.
+- **Personnalisation** : Les nombreux thèmes disponibles permettent d’adapter le site à l’identité visuelle de mon domaine. J'ai décidé de partir avec quelque chose de très sobre et qui va droit au but.
 - **Communauté active** : Une documentation riche et une communauté engagée assurent un support continu.
 
 En conclusion, Hugo offre un équilibre parfait entre simplicité et puissance, ce qui en fait le choix idéal pour présenter mon travail tout en restant concentré sur la création de contenu pertinent.

@@ -1,13 +1,11 @@
 ---
 title: "Ma Stratégie de Veille Technologique et de Gestion de l’Information"
-date: 2024-12-05
+date: 2024-12-24
 author: "Tristan"
 description: "Un aperçu de ma méthode pour rester à jour sur les innovations technologiques et organiser les informations essentielles pour mes projets vidéo et photo."
 tags: ["veille technologique", "organisation", "workflow"]
 draft: false
 ---
-
-<!--more-->
 
 ## Étape 1 : Sources de veille technologique
 
@@ -78,15 +76,6 @@ Ces pratiques me permettent :
 - De rester à la pointe des innovations, assurant une qualité constante dans mes projets.  
 - D’éviter la surcharge d’informations grâce à une organisation claire et efficace.  
 - D’avoir toujours un temps d’avance, en intégrant rapidement les nouvelles tendances et technologies.
-
----
-
-## Ressources utilisées pour cet article
-
-Les outils et idées présentés ici sont issus de mon expérience personnelle et des sources suivantes :  
-- [Notion Blog](https://www.notion.so) : Conseils sur l’organisation des workflows.  
-- [Feedly](https://feedly.com) : Pour centraliser les informations en veille.  
-- [Todoist](https://todoist.com) : Gestion de tâches et planification.
 
 ---
 

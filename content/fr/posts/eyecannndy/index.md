@@ -1,46 +1,46 @@
 ---
-title: "Rester à jour avec Full Time Filmmaker"
+title: "L'art de la VFX : EyeCandy en lumière"
 date: 2024-12-05
 author: "Tristan"
-description: "Découvrez comment la formation Full Time Filmmaker m’aide à rester à jour sur les techniques, équipements et stratégies de storytelling vidéo."
-tags: ["formation", "vidéo", "storytelling", "équipement"]
+description: "Explorez comment EyeCandy repousse les limites du storytelling visuel avec des concepts audacieux et des visuels percutants."
+tags: ["storytelling", "création visuelle", "vidéo"]
 draft: false
 ---
 
-### Découverte d’une ressource inestimable : Full Time Filmmaker
+###  Découverte d’un outil essentiel pour la créativité : Eyecannndy 
 
-Lorsqu’il s’agit de se perfectionner dans le domaine de la vidéo, une formation de qualité peut transformer votre approche et vos compétences. C’est exactement ce que m’a apporté **Full Time Filmmaker** (FTF). J’ai découvert cette formation après être tombé sur leur chaîne YouTube, qui partage déjà une multitude de conseils gratuits sur la vidéo et la narration. Intrigué par la profondeur des informations, j’ai décidé de plonger dans leur programme complet, et je ne le regrette pas.
-
----
-
-### Pourquoi cette formation m’a séduit
-
-La force de FTF réside dans son contenu structuré, couvrant tous les aspects de la création vidéo. Voici ce qui la rend particulièrement précieuse :
-
-- **Équipement** : des recommandations détaillées sur les meilleurs outils disponibles, du matériel de base aux équipements professionnels. Cette section m’aide à prendre des décisions éclairées pour mes projets.
-- **Techniques** : des guides pratiques sur l’éclairage, les angles de caméra, et les transitions, offrant une compréhension technique approfondie.
-- **Tutos** : des tutoriels étape par étape pour maîtriser des logiciels comme Premiere Pro, After Effects ou DaVinci Resolve.
-- **Storytelling** : une section dédiée à l’art de raconter des histoires visuellement, un atout clé pour captiver l’audience.
+Lorsque l’on parle de rester à jour dans l’univers de la vidéo, suivre des créateurs innovants est indispensable. C’est exactement ce que propose la chaîne YouTube [New School Studio](https://www.youtube.com/@NewSchoolStudio). Cette chaîne, dédiée au montage et à la post-production, regorge de contenus précieux pour les vidéastes. Lors de mes recherches, j’ai découvert une vidéo particulièrement marquante où ils présentent un outil incontournable :  [Eyecannndy](https://eyecannndy.com/) .
 
 ---
 
-### Comment FTF s’intègre à ma veille
+###  Pourquoi cette vidéo m’a inspiré 
 
-La formation est constamment mise à jour avec de nouvelles leçons et des exemples issus de projets récents. Voici comment je l’utilise :
+La vidéo [disponible ici](https://www.youtube.com/watch?v=SfqxMm5zmmw&t=4s&ab_channel=NewSchoolStudio) explore des effets visuels utilisés dans des clips musicaux modernes. Ce qui m’a marqué, c’est la manière dont Eyecannndy compile une vaste bibliothèque d’effets visuels en vogue, accompagnée de références concrètes. Ce site est une véritable mine d’or pour :
 
-1. **Consultation régulière des nouvelles vidéos** : FTF propose du contenu frais pour suivre les tendances actuelles.
-2. **Accès à la communauté** : la formation inclut un accès à un groupe d’apprenants et de professionnels, où les échanges enrichissent ma réflexion.
-3. **Application immédiate** : chaque projet que je réalise bénéficie directement des conseils pratiques appris dans FTF.
+-  Planifier un tournage  avec des visuels percutants à l’esprit.  
+-  Optimiser la post-production  en intégrant des effets créatifs qui captivent le spectateur.  
 
-Cette approche me permet non seulement de rester au courant des évolutions technologiques, mais aussi d’améliorer continuellement ma maîtrise des fondamentaux et des techniques avancées.
+Le tout est accompagné d’exemples visuels inspirants, ce qui simplifie la compréhension et l’application des techniques proposées.
+
+Mais ce qui rend cette découverte encore plus enrichissante, c’est que cette chaîne YouTube ne se limite pas à une seule vidéo. New School Studio publie régulièrement du contenu similaire, ce qui m’aide à découvrir d’autres outils, techniques et tendances pour rester à jour dans mon domaine.
 
 ---
 
-### Un atout indispensable pour mes projets vidéo
+###  Utiliser Eyecannndy dans ma veille 
 
-Grâce à FTF, j’ai perfectionné ma manière d’aborder chaque étape d’un projet : de la pré-production à la post-production, en passant par la captation et la narration. Que ce soit pour des campagnes marketing, des événements ou des clips musicaux, cette formation m’a permis de repousser les limites de mes créations.
+Depuis cette découverte, j’ai intégré Eyecannndy dans mon système d’écoute :  
+1.  Consultation régulière du site  pour explorer les nouveautés.  
+2.  Abonnement à leur page Instagram  : un excellent moyen d’observer les tendances actuelles en matière d’effets visuels.  
 
-### En conclusion
+En parallèle, je reste abonné à New School Studio pour continuer à recevoir leurs vidéos et conseils précieux. Leur travail va bien au-delà de la simple présentation d’outils : ils expliquent comment intégrer ces éléments dans des projets concrets, tout en stimulant la créativité.
 
-Investir dans Full Time Filmmaker a été une des décisions les plus enrichissantes de mon parcours en vidéo. Leur combinaison unique de pédagogie, de contenu mis à jour et de communauté m’aide à rester pertinent et à évoluer dans un secteur en constante transformation.
+---
+
+###  Un atout pour mes projets vidéo 
+
+Que ce soit pour des clips musicaux, des vidéos d’entreprise ou des événements, intégrer des effets modernes et originaux est un réel avantage. Cela donne une valeur ajoutée au projet et offre une expérience visuelle mémorable au spectateur.
+
+###  En conclusion 
+
+Découvrir des outils comme Eyecannndy via des créateurs tels que New School Studio, c’est enrichir mon approche en tant que vidéaste. Ce type de veille me permet de rester dans une dynamique d’apprentissage continu, tout en adaptant ces nouvelles connaissances à mes propres projets.
 

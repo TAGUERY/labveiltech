@@ -1,7 +1,7 @@
 ---
 
 title: "Instagram pour la Veille Créative : Un Outil Clé pour Nairomedias"  
-date: 2024-12-24  
+date: 2024-12-05  
 author: "Tristan"  
 description: "Découvrez comment Instagram devient un outil indispensable pour la veille créative et l'inspiration dans le domaine de la production vidéo et photo."  
 tags: ["réseaux sociaux", "Instagram", "veille créative", "Nairomedias"]  
