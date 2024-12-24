@@ -1,4 +1,4 @@
-title = "Awesome Hugo blog"
+title = "Tristan Montanari : LabVeilTech"
 baseURL = 'https://taguery.github.io/labveiltech/'
 
 # This is what goes in <html lang="">
@@ -61,7 +61,7 @@ theme = "hugo-blog-awesome"
     # The page reference (pageRef) is useful for menu highlighting
     # When pageRef is set, setting `url` is optional; it will be used as a fallback if the page is not found.
     pageRef="/"
-    name = 'Acceuil'
+    name = 'Accueil'
     url = '/'
     weight = 10
   [[Languages.fr-fr.menu.main]]
@@ -76,7 +76,7 @@ theme = "hugo-blog-awesome"
     weight = 30
 
 [Languages.fr-fr.params]
-  sitename = "Awesome hugo blog"
+  sitename = "Tristan Montanari : LabVeilTec"
   defaultColor = "dark" # set color mode: dark, light, auto
   # Setting it to 'auto' applies the color scheme based on the visitor's device color preference.If you don't specify anything, ignore this parameter, or leave it blank,
   # the default value is set to 'auto'.
@@ -101,9 +101,9 @@ theme = "hugo-blog-awesome"
 [Languages.fr-fr.params.author]
   avatar = "avatar.jpg" # put the file in assets folder; also ensure that image has same height and width
   # Note: image is not rendered if the resource(avatar image) is not found. No error is displayed.
-  intro = "Mon super site"
+  intro = "Veille technologique"
   name = "Tristan Montanari"
-  description = "Voilà mon super site eheheheh"
+  description = "Ce site, réalisé dans le cadre de mon cours, présente ma veille technologique pour Nairomedias. Vous y découvrirez mon parcours et ma passion pour la production vidéo centrée sur le storytelling."
 
 # Allow to override webmanifest options
 [Languages.fr-fr.params.webmanifest]
@@ -113,7 +113,6 @@ theme = "hugo-blog-awesome"
   theme_color = "#434648" # default is "#434648" (base color of text). Also will override html `<meta name="theme-color" />`
   background_color = "#fff" # by default depend on "params.defaultColor" for "light" or "auto" will be set to "#fff" for dark will be "#131418" (color of dark mode background)
   display = "standalone"
-
 
 
 

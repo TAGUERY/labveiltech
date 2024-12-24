@@ -7,7 +7,6 @@ tags: ["veille technologique", "organisation", "workflow"]
 draft: false
 ---
 
-La veille technologique est un élément clé de ma démarche en tant que créateur de contenu. Elle me permet d’identifier les nouvelles tendances, outils, et innovations pour améliorer mes productions vidéo et photo. Dans cet article, je partage les étapes, outils et processus que j’utilise pour organiser et exploiter efficacement les informations.  
 <!--more-->
 
 ## Étape 1 : Sources de veille technologique
